@@ -1,7 +1,7 @@
 # Personal profile of software engineering skills
 
-⬜ Optional, 🟦 Required for all, 🟨 Required for js, 🟩 Learned, 🟥 Declined
-
+⬜ Optional, 🟦 Required for all, 🟨 Required for js
+✅ - Learnd, ❇️ - learned basic
 ## Fundamental concepts
 
 | Syntax               | Statements            | Functions             | Data structures     | Process & style      |
