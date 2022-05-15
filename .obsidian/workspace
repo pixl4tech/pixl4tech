@@ -109,14 +109,14 @@
   "active": "1bfc38b998a29c41",
   "lastOpenFiles": [
     "SKILLS.md",
-    "SKILLS/Variable.md",
-    "SKILLS/Value.md",
-    "SKILLS/Identifier.md",
+    "SKILLS/Fundamental/Constant.md",
+    "SKILLS/Fundamental/Variable.md",
+    "SKILLS/Fundamental/Identifier.md",
+    "SKILLS/Fundamental/Value.md",
     "README.md",
     "EXPERIENCE.md",
     "EDUCATION.md",
     "CONTRIBUTION.md",
-    "PROJECTS.md",
-    "RATES.md"
+    "PROJECTS.md"
   ]
 }

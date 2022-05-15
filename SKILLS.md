@@ -7,10 +7,10 @@
 
 | Syntax               | Statements            | Functions             | Data structures     | Process & style      |
 |----------------------|-----------------------|-----------------------|---------------------|----------------------|
-| ✅ 🟦 [value](SKILLS/Value.md)           | ✅ 🟦 if                 | ❇️ 🟦 recursion          | 🟦 array            | 🟦 refactoring       |
-| ✅ 🟦 [identifier](SKILLS/Identifier.md)      | ✅ 🟦 loops              | ✅ 🟦 function           | 🟦 instance         | 🟦 code review       |
-| ✅ 🟦 [variable](SKILLS/Variable.md)        | ✅ 🟦 assignment         | ✅ 🟦 return             | 🟦 object           | 🟦 antipatterns      |
-| ✅ 🟦 constant        | ⚠️ 🟨 prototype           | ✅ 🟦 signature          | 🟦 collection       | 🟦 paradigm          |
+| ✅ 🟦 [value](SKILLS/Fundamental/Value.md)           | ✅ 🟦 if                 | ❇️ 🟦 recursion          | 🟦 array            | 🟦 refactoring       |
+| ✅ 🟦 [identifier](SKILLS/Fundamental/Identifier.md)      | ✅ 🟦 loops              | ✅ 🟦 function           | 🟦 instance         | 🟦 code review       |
+| ✅ 🟦 [variable](SKILLS/Fundamental/Variable.md)        | ✅ 🟦 assignment         | ✅ 🟦 return             | 🟦 object           | 🟦 antipatterns      |
+| ✅ 🟦 [constant](SKILLS/Fundamental/Constant.md)        | ⚠️ 🟨 prototype           | ✅ 🟦 signature          | 🟦 collection       | 🟦 paradigm          |
 | ✅ 🟦 scalar          | ✅ 🟦 class              | ✅ 🟦 argument           | 🟦 hash table       | 🟦 algorithm         |
 | ✅ 🟦 literal         | ✅ 🟦 while              | ✅ 🟦 parameter          | 🟦 linked list      | 🟦 magic numbers     |
 | ✅ 🟦 expression      | ✅ 🟦 do..while          | ✅ 🟦 pure function      | 🟦 queue            | 🟦 hardcode          |
