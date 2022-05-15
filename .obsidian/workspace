@@ -60,9 +60,9 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -109,8 +109,9 @@
   "active": "1bfc38b998a29c41",
   "lastOpenFiles": [
     "SKILLS.md",
-    "SKILLS/Value.md",
     "README.md",
+    "SKILLS/Identifier.md",
+    "SKILLS/Value.md",
     "EXPERIENCE.md",
     "EDUCATION.md",
     "CONTRIBUTION.md",
