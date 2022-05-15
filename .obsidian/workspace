@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "f31920aaa7eadce4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bfc38b998a29c41",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SKILLS/Value.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fda69657f2393a26",
+    "type": "split",
+    "children": [
+      {
+        "id": "28b0337cf819741e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee60831c9b45dd27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "142323a0b2c0f9dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ae038266478ba42",
+    "type": "split",
+    "children": [
+      {
+        "id": "56bf1027c37ec640",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cd277bbfbdb120b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SKILLS/Value.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1bfc38b998a29c41",
+  "lastOpenFiles": [
+    "SKILLS/Value.md",
+    "SKILLS.md",
+    "README.md",
+    "EXPERIENCE.md",
+    "EDUCATION.md",
+    "CONTRIBUTION.md",
+    "PROJECTS.md",
+    "RATES.md"
+  ]
+}
