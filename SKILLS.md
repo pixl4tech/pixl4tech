@@ -7,7 +7,7 @@
 
 | Syntax               | Statements            | Functions             | Data structures     | Process & style      |
 |----------------------|-----------------------|-----------------------|---------------------|----------------------|
-| ✅ 🟦 [value](Value.md)           | ✅ 🟦 if                 | ❇️ 🟦 recursion          | 🟦 array            | 🟦 refactoring       |
+| ✅ 🟦 [value](SKILLS/Value.md)           | ✅ 🟦 if                 | ❇️ 🟦 recursion          | 🟦 array            | 🟦 refactoring       |
 | ✅ 🟦 identifier      | ✅ 🟦 loops              | ✅ 🟦 function           | 🟦 instance         | 🟦 code review       |
 | ✅ 🟦 variable        | ✅ 🟦 assignment         | ✅ 🟦 return             | 🟦 object           | 🟦 antipatterns      |
 | ✅ 🟦 constant        | ⚠️ 🟨 prototype           | ✅ 🟦 signature          | 🟦 collection       | 🟦 paradigm          |

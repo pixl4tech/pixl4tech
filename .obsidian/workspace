@@ -6,12 +6,31 @@
       {
         "id": "1bfc38b998a29c41",
         "type": "leaf",
+        "dimension": 72.87753568745305,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SKILLS/Value.md",
+            "file": "SKILLS.md",
             "mode": "source",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "f396e6eb7f294242",
+        "type": "leaf",
+        "dimension": 27.122464312546956,
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "SKILLS.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
           }
         }
       }
@@ -69,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SKILLS/Value.md",
+                "file": "SKILLS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +108,8 @@
   },
   "active": "1bfc38b998a29c41",
   "lastOpenFiles": [
-    "SKILLS/Value.md",
     "SKILLS.md",
+    "SKILLS/Value.md",
     "README.md",
     "EXPERIENCE.md",
     "EDUCATION.md",
