@@ -9,7 +9,7 @@
 |----------------------|-----------------------|-----------------------|---------------------|----------------------|
 | ✅ 🟦 [value](SKILLS/Value.md)           | ✅ 🟦 if                 | ❇️ 🟦 recursion          | 🟦 array            | 🟦 refactoring       |
 | ✅ 🟦 [identifier](SKILLS/Identifier.md)      | ✅ 🟦 loops              | ✅ 🟦 function           | 🟦 instance         | 🟦 code review       |
-| ✅ 🟦 variable        | ✅ 🟦 assignment         | ✅ 🟦 return             | 🟦 object           | 🟦 antipatterns      |
+| ✅ 🟦 [variable](SKILLS/Variable.md)        | ✅ 🟦 assignment         | ✅ 🟦 return             | 🟦 object           | 🟦 antipatterns      |
 | ✅ 🟦 constant        | ⚠️ 🟨 prototype           | ✅ 🟦 signature          | 🟦 collection       | 🟦 paradigm          |
 | ✅ 🟦 scalar          | ✅ 🟦 class              | ✅ 🟦 argument           | 🟦 hash table       | 🟦 algorithm         |
 | ✅ 🟦 literal         | ✅ 🟦 while              | ✅ 🟦 parameter          | 🟦 linked list      | 🟦 magic numbers     |

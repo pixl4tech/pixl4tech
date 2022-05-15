@@ -2,5 +2,6 @@
   "legacyEditor": false,
   "livePreview": true,
   "useMarkdownLinks": true,
-  "alwaysUpdateLinks": false
+  "alwaysUpdateLinks": false,
+  "newLinkFormat": "absolute"
 }
