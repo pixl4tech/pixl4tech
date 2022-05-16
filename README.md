@@ -1,4 +1,4 @@
-<code>🎓 The Master of Computer Science (FinU) </code>
+<code>🎓 Master of Computer Science (FinU) </code>
 <code>👷 Speciality: Software engineer / Backend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
