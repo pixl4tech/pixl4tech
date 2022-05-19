@@ -8,20 +8,20 @@
 | Syntax                                              | Statements              | Functions                | Data structures     | Process & style      |
 |-----------------------------------------------------|-------------------------|--------------------------|---------------------|----------------------|
 | ✅ 🟦 [basic terms](SKILLS/Fundamental/Basic%20terms.md)                                    | ✅ 🟦 if                 | ❇️ 🟦 recursion          | 🟦 array            | 🟦 refactoring       |
-| ✅ 🟦 [value](SKILLS/Fundamental/Value.md)           | ✅ 🟦 loops              | ✅ 🟦 function            | 🟦 instance         | 🟦 code review       |
+| ✅ 🟦 [value](SKILLS/Fundamental/Value.md)           | ✅ 🟦 loops              | ✅ 🟦 [function](SKILLS/Fundamental/Function.md)            | 🟦 instance         | 🟦 code review       |
 | ✅ 🟦 [identifier](SKILLS/Fundamental/Identifier.md) | ✅ 🟦 [assignment](SKILLS/Fundamental/Assignment.md)         | ✅ 🟦 return              | 🟦 object           | 🟦 antipatterns      |
-| ✅ 🟦 [variable](SKILLS/Fundamental/Variable.md)     | ⚠️ 🟨 prototype         | ✅ 🟦 signature           | 🟦 collection       | 🟦 paradigm          |
+| ✅ 🟦 [variable](SKILLS/Fundamental/Variable.md)     | ⚠️ 🟨 prototype         | ✅ 🟦 [signature](SKILLS/Fundamental/Signature.md)           | 🟦 collection       | 🟦 [paradigm](SKILLS/Fundamental/Paradigm.md)          |
 | ✅ 🟦 [constant](SKILLS/Fundamental/Constant.md)     | ✅ 🟦 class              | ✅ 🟦 argument            | 🟦 hash table       | 🟦 [algorithm](SKILLS/Fundamental/Algorithm.md), [programm](SKILLS/Fundamental/Programm.md)         |
 | ✅ 🟦 [scalar](SKILLS/Fundamental/Scalar.md)                                         | ✅ 🟦 while              | ✅ 🟦 parameter           | 🟦 linked list      | 🟦 magic numbers     |
 | ✅ 🟦 [literal](SKILLS/Fundamental/Literal.md)                                        | ✅ 🟦 do..while          | ✅ 🟦 pure function       | 🟦 queue            | 🟦 hardcode          |
-| ✅ 🟦 [expression](SKILLS/Fundamental/Expression.md)                                     | ✅ 🟦 for                | ✅ 🟦 lambda              | 🟦 stack            | 🟦 complexity        |
-| ✅ 🟦 heap                                           | ⚠️ 🟨 for..in           | ⚠️ 🟦 side effects       | 🟦 deque            | 🟦 decomposition     |
+| ✅ 🟦 [expression](SKILLS/Fundamental/Expression.md)                                     | ✅ 🟦 for                | ✅ 🟦 lambda              | 🟦 [stack](SKILLS/Fundamental/Stack.md)            | 🟦 complexity        |
+| ✅ 🟦 [heap](SKILLS/Fundamental/Heap.md)                                           | ⚠️ 🟨 for..in           | ⚠️ 🟦 side effects       | 🟦 deque            | 🟦 decomposition     |
 | ✅ 🟦 [type](SKILLS/Fundamental/Type.md)                                           | ⚠️ 🟨 for..of           | ⚠️ 🟦 closure            | 🟦 serialization    | ⬜️ spaghetti         |
 | ✅ 🟦 [primitive types](SKILLS/Fundamental/Primitive%20Types.md), [composed types](SKILLS/Fundamental/Composed%20Types.md)                | ⚠️ 🟨 for await         | ⚠️ 🟦 partial            | 🟦 mixin, extend    | ⬜️ silver bullet     |
 | ✅ 🟦 [reference](SKILLS/Fundamental/Reference.md)                                      | ⚠️ 🟦 throw             | ⚠️ ⬜️ curry              | 🟦 iterator         | ⬜️ not invented here |
 | ✅ 🟦 [flag](SKILLS/Fundamental/Flag.md)                                           | ✅ 🟦 try..catch (exept) | ⚠️ 🟦 chaining           | 🟨 typed arrays     | 🟦 dead code         |
 | ✅ 🟦 lexical scope                                  | ✅ 🟦 equality operators | ⚠️ 🟦 higher order       | 🟨 Map              | 🟦 unreachable code  |
-| ✅ 🟦 code block                                     | ✅ 🟦 logical operators  | ⚠️ 🟦 callback           | 🟨 Set              | 🟦 duplicate code    |
+| ✅ 🟦 [code block](SKILLS/Fundamental/Code%20block.md)                                     | ✅ 🟦 logical operators  | ⚠️ 🟦 callback           | 🟨 Set              | 🟦 duplicate code    |
 | ⚠️ 🟨 Object                                        | ✅ 🟦 bitwise operators  | ⚠️ 🟦 listener           | ⬜️ weak collections | 🟦 exception         |
 | ⚠️ 🟨 this                                          | ✅ 🟦 break, continue    | ⚠️ ⬜️ pipe               | ⬜️ Proxy            | 🟦 return early      |
 | ⚠️ 🟨 arrow function                                | ✅ 🟦 switch (match)     | ⚠️ ⬜️ memoize            | ⬜️ Symbol           | 🟦 linter            |

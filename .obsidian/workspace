@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SKILLS/Fundamental/Basic terms.md",
+            "file": "SKILLS.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SKILLS/Fundamental/Basic terms.md",
+                "file": "SKILLS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "1bfc38b998a29c41",
   "lastOpenFiles": [
-    "SKILLS/Fundamental/Basic terms.md",
     "SKILLS.md",
-    "SKILLS/Fundamental/Programm.md",
-    "SKILLS/Fundamental/Algorithm.md",
-    "SKILLS/Fundamental/Assignment.md",
-    "SKILLS/Fundamental/Type.md",
     "SKILLS/Fundamental/Reference.md",
-    "SKILLS/Fundamental/Flag.md",
-    "SKILLS/Fundamental/Composed Types.md",
-    "SKILLS/Fundamental/Primitive Types.md"
+    "SKILLS/Fundamental/Heap.md",
+    "SKILLS/Fundamental/Stack.md",
+    "SKILLS/Fundamental/Value.md",
+    "SKILLS/Fundamental/Function.md",
+    "SKILLS/Fundamental/Paradigm.md",
+    "SKILLS/Fundamental/Literal.md",
+    "SKILLS/Fundamental/Basic terms.md",
+    "SKILLS/Fundamental/Flag.md"
   ]
 }
