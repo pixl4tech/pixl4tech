@@ -6,31 +6,12 @@
       {
         "id": "1bfc38b998a29c41",
         "type": "leaf",
-        "dimension": 72.87753568745305,
         "state": {
           "type": "markdown",
           "state": {
             "file": "SKILLS.md",
             "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "f396e6eb7f294242",
-        "type": "leaf",
-        "dimension": 27.122464312546956,
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "SKILLS.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": false
           }
         }
       }
@@ -72,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 161
   },
   "right": {
     "id": "3ae038266478ba42",
@@ -95,28 +76,35 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
+            }
+          },
+          {
+            "id": "c263d89a83a1478e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 349.5
   },
   "active": "1bfc38b998a29c41",
   "lastOpenFiles": [
     "SKILLS.md",
-    "SKILLS/Fundamental/Constant.md",
-    "SKILLS/Fundamental/Variable.md",
-    "SKILLS/Fundamental/Identifier.md",
-    "SKILLS/Fundamental/Value.md",
-    "README.md",
-    "EXPERIENCE.md",
-    "EDUCATION.md",
-    "CONTRIBUTION.md",
-    "PROJECTS.md"
+    "SKILLS/Fundamental/Programm.md",
+    "SKILLS/Fundamental/Algorithm.md",
+    "SKILLS/Fundamental/Assignment.md",
+    "SKILLS/Fundamental/Type.md",
+    "SKILLS/Fundamental/Basic terms.md",
+    "SKILLS/Fundamental/Reference.md",
+    "SKILLS/Fundamental/Flag.md",
+    "SKILLS/Fundamental/Composed Types.md",
+    "SKILLS/Fundamental/Primitive Types.md"
   ]
 }
