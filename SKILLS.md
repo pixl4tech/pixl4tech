@@ -3,6 +3,7 @@
 ⬜ Optional, 🟦 Required for all technologies, 🟨 Required for js, 🟧 Required for python.   
 ✅ - Learnd, ❇️ - Learned basic, ⚠️ - To do
 
+
 ## Fundamental concepts
 
 | Syntax                                              | Statements              | Functions                | Data structures     | Process & style      |
