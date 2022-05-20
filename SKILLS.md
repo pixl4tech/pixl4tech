@@ -1,6 +1,6 @@
 # Personal profile of software engineering skills
 
-⬜ Optional Information, 🟦 General Information, 🟨 Technology specific information
+⬜ Optional Information, 🟦 General Information, 🟨 Technology specific information.  
 ✅ - Learnd, ❇️ - Learnd basic, ⚠️ - To do
 
 
