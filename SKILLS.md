@@ -46,7 +46,7 @@
 
 ## Python concept details
 
-| Syntax                | Statements            | Functions       | Data structures    | Process & style |
+| Syntax                | Statements            | Functions       | Data structures    | Technologies & style |
 |-----------------------|-----------------------|-----------------|--------------------|-----------------|
 | ✅ 🟨 python syntax    | ✅ 🟨 basic statements | ❇️ 🟨 map       | ✅ 🟨 Default types | ✅ 🟨 PEP        |
 | ❇️ 🟨 f-string        | ✅ 🟨 match            | ❇️ 🟨 reduce    | ✅ 🟨 Frozen Set    | ✅ 🟨 Lint       |
@@ -60,7 +60,7 @@
 
 ## Javascript concept details
 
-| Syntax                  | Statements      | Functions                | Data structures   | Process & style |
+| Syntax                  | Statements      | Functions                | Data structures   | Technologies & style |
 | ----------------------- | --------------- | ------------------------ | ----------------- | --------------- |
 | ⚠️ 🟨 Object            | ⚠️ 🟨 prototype | ⚠️ 🟨 default parameters | 🟨 Default types  | 🟨 node.js      |
 | ⚠️ 🟨 this              | ⚠️ 🟨 for..in   | ❇️ 🟨 wrapper            | 🟨 typed arrays   | 🟨 npm          |
