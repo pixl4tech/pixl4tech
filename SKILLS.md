@@ -74,6 +74,29 @@
 | ⚠️ 🟨 ...rest           |                 |                          | 🟨 undefined      |                 |
 | ⚠️ 🟨 typeof            |                 |                          |                   |                 |
 
+## Database concept details
+
+| Theory and Metodologies       | DB and Technologies | Cases                    |
+| ----------------------------- | ------------------- | ------------------------ |
+| ❇️ 🟦 Relation Model          | ❇️ 🟦 SQL           | ⚠️ 🟨 SQL traspose table |
+| ❇️ 🟦 OLTP                    | ❇️ 🟨 Postgres      |                          |
+| ❇️ 🟦 DWH                     | ❇️ 🟨 Oracle        |                          |
+| ❇️ 🟦 Anchor Modeling         | ⚠️ 🟨 MySQL         |                          |
+| ❇️ 🟦 Data Vault              | ⚠️ 🟨 MongoDB       |                          |
+| ❇️ 🟦 OLTP Optimization       | ⚠️ 🟨 Redis         |                          |
+| ❇️ 🟦 Normalization           | ⚠️ 🟨 Sharding      |                          |
+| ❇️ 🟦 Denormalization         | ⚠️ 🟨 Partition     |                          |
+| ❇️ 🟦 ER model                | ⚠️ 🟨 Migration     |                          |
+| ❇️ 🟦 Key                     | ⚠️ 🟦 DDL           |                          |
+| ❇️ 🟦 Index                   | ⚠️ 🟦 DML           |                          |
+| ❇️ 🟦 NoSQL                   | ⚠️ 🟨 ORM           |                          |
+| ❇️ 🟦 ETL                     |                     |                          |
+| ❇️ 🟦 DDS                     |                     |                          |
+| ❇️ 🟦 Dimension               |                     |                          |
+| ❇️ 🟦 Fact                    |                     |                          |
+| ❇️ 🟦 Slow changing dimension |                     |                          |
+
+
 ## Multi-paradigm programming
 
 | Theory                         | OOP basics            | Abstractions         | Patterns                 |
