@@ -1,42 +1,36 @@
 # Personal profile of software engineering skills
 
-⬜ Optional, 🟦 Required for all technologies, 🟨 Required for js, 🟧 Required for python.   
-✅ - Learnd, ❇️ - Learned basic, ⚠️ - To do
+⬜ Optional Information, 🟦 General Information, 🟨 Technology specific information
+✅ - Learnd, ❇️ - Learnd basic, ⚠️ - To do
 
 
 ## Fundamental concepts
 
-| Syntax                                              | Statements              | Functions                | Data structures     | Process & style      |
-|-----------------------------------------------------|-------------------------|--------------------------|---------------------|----------------------|
-| ✅ 🟦 [basic terms](SKILLS/Fundamental/Basic%20terms.md)                                    | ✅ 🟦 if                 | ✅ 🟦 [recursion](SKILLS/Fundamental/Recursion.md)          | 🟦 array            | 🟦 refactoring       |
-| ✅ 🟦 [value](SKILLS/Fundamental/Value.md)           | ✅ 🟦 loops              | ✅ 🟦 [function](SKILLS/Fundamental/Function.md)            | 🟦 instance         | 🟦 code review       |
-| ✅ 🟦 [identifier](SKILLS/Fundamental/Identifier.md) | ✅ 🟦 [assignment](SKILLS/Fundamental/Assignment.md)         | ✅ 🟦 return              | 🟦 object           | 🟦 antipatterns      |
-| ✅ 🟦 [variable](SKILLS/Fundamental/Variable.md)     | ⚠️ 🟨 prototype         | ✅ 🟦 [signature](SKILLS/Fundamental/Signature.md)           | 🟦 collection       | 🟦 [paradigm](SKILLS/Fundamental/Paradigm.md)          |
-| ✅ 🟦 [constant](SKILLS/Fundamental/Constant.md)     | ✅ 🟦 class              | ✅ 🟦 argument            | 🟦 hash table       | 🟦 [algorithm](SKILLS/Fundamental/Algorithm.md), [programm](SKILLS/Fundamental/Programm.md)         |
-| ✅ 🟦 [scalar](SKILLS/Fundamental/Scalar.md)                                         | ✅ 🟦 while              | ✅ 🟦 parameter           | 🟦 linked list      | 🟦 magic numbers     |
-| ✅ 🟦 [literal](SKILLS/Fundamental/Literal.md)                                        | ✅ 🟦 do..while          | ✅ 🟦 pure function       | 🟦 queue            | 🟦 hardcode          |
-| ✅ 🟦 [expression](SKILLS/Fundamental/Expression.md)                                     | ✅ 🟦 for                | ✅ 🟦 lambda              | 🟦 [stack](SKILLS/Fundamental/Stack.md)            | 🟦 complexity        |
-| ✅ 🟦 [heap](SKILLS/Fundamental/Heap.md)                                           | ⚠️ 🟨 for..in           | ⚠️ 🟦 side effects       | 🟦 deque            | 🟦 decomposition     |
-| ✅ 🟦 [type](SKILLS/Fundamental/Type.md)                                           | ⚠️ 🟨 for..of           | ⚠️ 🟦 closure            | 🟦 serialization    | ⬜️ spaghetti         |
-| ✅ 🟦 [primitive types](SKILLS/Fundamental/Primitive%20Types.md), [composed types](SKILLS/Fundamental/Composed%20Types.md)                | ⚠️ 🟨 for await         | ⚠️ 🟦 partial            | 🟦 mixin, extend    | ⬜️ silver bullet     |
-| ✅ 🟦 [reference](SKILLS/Fundamental/Reference.md)                                      | ⚠️ 🟦 throw             | ⚠️ ⬜️ curry              | 🟦 iterator         | ⬜️ not invented here |
-| ✅ 🟦 [flag](SKILLS/Fundamental/Flag.md)                                           | ✅ 🟦 try..catch (exept) | ⚠️ 🟦 chaining           | 🟨 typed arrays     | 🟦 dead code         |
-| ✅ 🟦 lexical scope                                  | ✅ 🟦 equality operators | ⚠️ 🟦 higher order       | 🟨 Map              | 🟦 unreachable code  |
-| ✅ 🟦 [code block](SKILLS/Fundamental/Code%20block.md)                                     | ✅ 🟦 logical operators  | ⚠️ 🟦 callback           | 🟨 Set              | 🟦 duplicate code    |
-| ⚠️ 🟨 Object                                        | ✅ 🟦 bitwise operators  | ⚠️ 🟦 listener           | ⬜️ weak collections | 🟦 exception         |
-| ⚠️ 🟨 this                                          | ✅ 🟦 break, continue    | ⚠️ ⬜️ pipe               | ⬜️ Proxy            | 🟦 return early      |
-| ⚠️ 🟨 arrow function                                | ✅ 🟦 switch (match)     | ⚠️ ⬜️ memoize            | ⬜️ Symbol           | 🟦 linter            |
-| ⚠️ 🟨 generator                                     | ⚠️ 🟨 new Error         | ⚠️ 🟨 default parameters | ⬜️ Symbol           | 🟦 linter            |
-| ✅ 🟧 iterator                                       |                         | ⚠️ ⬜️ memoize            | ⬜️ Symbol           | 🟦 linter            |
-| ❇️ 🟧 corutines                                     |                         | ⚠️ 🟦 factory            | 🟨 string parsing   | ⬜️ prettier          |
-| ⚠️ 🟨 async function                                |                         | ⚠️ 🟦 pool               | 🟨 timers           | 🟦 unittest          |
-| ⚠️ 🟨 call, bind, apply                             |                         | ❇️ 🟦 wrapper            | 🟨 EventEmitter     | 🟦 git               |
-| ⚠️ 🟨 Array                                         |                         |                          | 🟨 RegExp           | 🟦 github            |
-| ⚠️ 🟨 instanceof                                    |                         |                          | 🟨 global           | 🟨 node.js           |
-| ⚠️ 🟨 ...spread                                     |                         |                          | 🟨 undefined        | 🟨 npm               |
-| ⚠️ 🟨 ...rest                                       |                         |                          | 🟦 null             |                      |
-| ⚠️ 🟨 typeof                                        |                         |                          |                     |                      |
-| ❇️ 🟧 GIL                                           |                         |                          |                     |                      |
+| Syntax                                                                                                                    | Statements                                          | Functions                                         | Data structures                         | Process & style                                                                             |
+|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|---------------------------------------------------|-----------------------------------------|---------------------------------------------------------------------------------------------|
+| ✅ 🟦 [basic terms](SKILLS/Fundamental/Basic%20terms.md)                                                                   | ✅ 🟦 if                                             | ✅ 🟦 [recursion](SKILLS/Fundamental/Recursion.md) | 🟦 array                                | 🟦 refactoring                                                                              |
+| ✅ 🟦 [value](SKILLS/Fundamental/Value.md)                                                                                 | ✅ 🟦 loops                                          | ✅ 🟦 [function](SKILLS/Fundamental/Function.md)   | 🟦 instance                             | 🟦 code review                                                                              |
+| ✅ 🟦 [identifier](SKILLS/Fundamental/Identifier.md)                                                                       | ✅ 🟦 [assignment](SKILLS/Fundamental/Assignment.md) | ✅ 🟦 return                                       | 🟦 object                               | 🟦 antipatterns                                                                             |
+| ✅ 🟦 [variable](SKILLS/Fundamental/Variable.md)                                                                           | ✅ 🟦 class                                          | ✅ 🟦 [signature](SKILLS/Fundamental/Signature.md) | 🟦 collection                           | 🟦 [paradigm](SKILLS/Fundamental/Paradigm.md)                                               |
+| ✅ 🟦 [constant](SKILLS/Fundamental/Constant.md)                                                                           | ✅ 🟦 while                                          | ✅ 🟦 argument                                     | 🟦 hash table                           | 🟦 [algorithm](SKILLS/Fundamental/Algorithm.md), [programm](SKILLS/Fundamental/Programm.md) |
+| ✅ 🟦 [scalar](SKILLS/Fundamental/Scalar.md)                                                                               | ✅ 🟦 do..while                                      | ✅ 🟦 parameter                                    | 🟦 linked list                          | 🟦 magic numbers                                                                            |
+| ✅ 🟦 [literal](SKILLS/Fundamental/Literal.md)                                                                             | ✅ 🟦 for                                            | ✅ 🟦 pure function                                | 🟦 queue                                | 🟦 hardcode                                                                                 |
+| ✅ 🟦 [expression](SKILLS/Fundamental/Expression.md)                                                                       | ✅ 🟦 throw/asert                                    | ✅ 🟦 lambda                                       | 🟦 [stack](SKILLS/Fundamental/Stack.md) | 🟦 complexity                                                                               |
+| ✅ 🟦 [heap](SKILLS/Fundamental/Heap.md)                                                                                   | ✅ 🟦 try..catch (exept)                             | ⚠️ 🟦 side effects                                | 🟦 deque                                | 🟦 decomposition                                                                            |
+| ✅ 🟦 [type](SKILLS/Fundamental/Type.md)                                                                                   | ✅ 🟦 equality operators                             | ⚠️ 🟦 closure                                     | 🟦 serialization                        | ⬜️ spaghetti                                                                                |
+| ✅ 🟦 [primitive types](SKILLS/Fundamental/Primitive%20Types.md), [composed types](SKILLS/Fundamental/Composed%20Types.md) | ✅ 🟦 logical operators                              | ⚠️ 🟦 partial                                     | 🟦 mixin, extend                        | ⬜️ silver bullet                                                                            |
+| ✅ 🟦 [reference](SKILLS/Fundamental/Reference.md)                                                                         | ✅ 🟦 bitwise operators                              | ⚠️ ⬜️ curry                                       | 🟦 iterator                             | ⬜️ not invented here                                                                        |
+| ✅ 🟦 [flag](SKILLS/Fundamental/Flag.md)                                                                                   | ✅ 🟦 break, continue                                | ⚠️ 🟦 chaining                                    | ⬜️ weak collections                     | 🟦 dead code                                                                                |
+| ✅ 🟦 lexical scope                                                                                                        | ✅ 🟦 switch (match)                                 | ⚠️ 🟦 higher order                                | ⬜️ Proxy                                | 🟦 unreachable code                                                                         |
+| ✅ 🟦 [code block](SKILLS/Fundamental/Code%20block.md)                                                                     |                                                     | ⚠️ 🟦 callback                                    | ⬜️ Symbol                               | 🟦 duplicate code                                                                           |
+|                                                                                                                           |                                                     | ⚠️ 🟦 listener                                    | 🟦 null                                 | 🟦 exception                                                                                |
+|                                                                                                                           |                                                     | ⚠️ ⬜️ pipe                                        |                                         | 🟦 return early                                                                             |
+|                                                                                                                           |                                                     | ⚠️ ⬜️ memoize                                     |                                         | 🟦 linter                                                                                   |
+|                                                                                                                           |                                                     | ⚠️ 🟦 factory                                     |                                         | ⬜️ prettier                                                                                 |
+|                                                                                                                           |                                                     | ⚠️ 🟦 pool                                        |                                         | 🟦 unittest                                                                                 |
+|                                                                                                                           |                                                     | ❇️ 🟦 wrapper                                     |                                         | 🟦 git                                                                                      |
+|                                                                                                                           |                                                     |                                                   |                                         | 🟦 github                                                                                   |
+|                                                                                                                           |                                                     |                                                   |                                         | 🟦 gitlab                                                                                   |
 
 ## How programming languages works
 
@@ -50,6 +44,35 @@
 | 🟦 Topic      |           |                |        |                |
 | 🟦 Topic      |           |                |        |                |
 
+## Python concept details
+
+| Syntax                | Statements            | Functions       | Data structures    | Process & style |
+|-----------------------|-----------------------|-----------------|--------------------|-----------------|
+| ✅ 🟨 python syntax    | ✅ 🟨 basic statements | ❇️ 🟨 map       | ✅ 🟨 Default types | ✅ 🟨 PEP        |
+| ❇️ 🟨 f-string        | ✅ 🟨 match            | ❇️ 🟨 reduce    | ✅ 🟨 Frozen Set    | ✅ 🟨 Lint       |
+| ❇️ 🟨 lambda function | ✅ 🟨 for in           | ❇️ 🟨 filter    | ✅ 🟨 Ordered Dict  | ✅ 🟨 pip        |
+| ❇️ 🟨 slots           | ✅ 🟨 try/except       | ❇️ 🟨 zip       | ✅ 🟨 Counter       | ✅ 🟨 poetry     |
+| ❇️ 🟨 magic methods   | ❇️ 🟨 async/await     | ❇️ 🟨 sorted    | ✅ 🟨 ChainMap      | ✅ 🟨 testing    |
+| ❇️ 🟨 abstract class  | ✅ 🟨 iterator         | ❇️ 🟨 decorator | ✅ 🟨 User Dict     |                 |
+| ❇️ 🟨 interface       | ❇️ 🟨 yield           | ✅ 🟨 corutine   | ✅ 🟨 Lru Cache     |                 |
+| ❇️ 🟨 typing          |                       | ❇️ 🟨 generator | ✅ 🟨 Named Tuple   |                 |
+| ❇️ 🟨 syntax sugar    |                       | ❇️ 🟨 iterator  |
+
+## Javascript concept details
+
+| Syntax                  | Statements      | Functions                | Data structures   | Process & style |
+| ----------------------- | --------------- | ------------------------ | ----------------- | --------------- |
+| ⚠️ 🟨 Object            | ⚠️ 🟨 prototype | ⚠️ 🟨 default parameters | 🟨 Default types  | 🟨 node.js      |
+| ⚠️ 🟨 this              | ⚠️ 🟨 for..in   | ❇️ 🟨 wrapper            | 🟨 typed arrays   | 🟨 npm          |
+| ⚠️ 🟨 arrow function    | ⚠️ 🟨 for..of   |                          | 🟨 Map            | 🟨 react.js     |
+| ⚠️ 🟨 generator         | ⚠️ 🟨 for await |                          | 🟨 Set            | 🟨 vue.js       |
+| ⚠️ 🟨 async function    | ⚠️ 🟨 throw     |                          | 🟨 string parsing | 🟨 testing      |
+| ⚠️ 🟨 call, bind, apply | ⚠️ 🟨 new Error |                          | 🟨 timers         | 🟨 typescript   |
+| ⚠️ 🟨 Array             |                 |                          | 🟨 EventEmitter   |                 |
+| ⚠️ 🟨 instanceof        |                 |                          | 🟨 RegExp         |                 |
+| ⚠️ 🟨 ...spread         |                 |                          | 🟨 global         |                 |
+| ⚠️ 🟨 ...rest           |                 |                          | 🟨 undefined      |                 |
+| ⚠️ 🟨 typeof            |                 |                          |                   |                 |
 
 ## Multi-paradigm programming
 
