@@ -36,9 +36,9 @@
 
 | General       | Python    | Java Script    | GoLang | Java/Kotlin.   |
 |---------------|-----------|----------------|--------|----------------|
-| 🟦 [Call Stack](SKILLS/Fundamental/Call%20Stack.md) | 🟧 Cpython     | 🟨 V8          |        | ⬜ JVM         |
-| 🟦 [Heap](SKILLS/Fundamental/Heap.md)          | 🟧 GIL          |                |        |                |
-| 🟦 [Stack](SKILLS/Fundamental/Stack.md)      | 🟧 JIT in Py          |                |        |                |
+| 🟦 [Call Stack](SKILLS/Fundamental/Call%20Stack.md) | 🟨 Cpython     | 🟨 V8          |        | 🟨 JVM         |
+| 🟦 [Heap](SKILLS/Fundamental/Heap.md)          | 🟨 GIL          |                |        |                |
+| 🟦 [Stack](SKILLS/Fundamental/Stack.md)      | 🟨 JIT in Py          |                |        |                |
 | 🟦 Topic      |           |                |        |                |
 | 🟦 Topic      |           |                |        |                |
 | 🟦 Topic      |           |                |        |                |
