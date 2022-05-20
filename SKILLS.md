@@ -8,7 +8,7 @@
 
 | Syntax                                              | Statements              | Functions                | Data structures     | Process & style      |
 |-----------------------------------------------------|-------------------------|--------------------------|---------------------|----------------------|
-| ✅ 🟦 [basic terms](SKILLS/Fundamental/Basic%20terms.md)                                    | ✅ 🟦 if                 | ❇️ 🟦 recursion          | 🟦 array            | 🟦 refactoring       |
+| ✅ 🟦 [basic terms](SKILLS/Fundamental/Basic%20terms.md)                                    | ✅ 🟦 if                 | ✅ 🟦 [recursion](SKILLS/Fundamental/Recursion.md)          | 🟦 array            | 🟦 refactoring       |
 | ✅ 🟦 [value](SKILLS/Fundamental/Value.md)           | ✅ 🟦 loops              | ✅ 🟦 [function](SKILLS/Fundamental/Function.md)            | 🟦 instance         | 🟦 code review       |
 | ✅ 🟦 [identifier](SKILLS/Fundamental/Identifier.md) | ✅ 🟦 [assignment](SKILLS/Fundamental/Assignment.md)         | ✅ 🟦 return              | 🟦 object           | 🟦 antipatterns      |
 | ✅ 🟦 [variable](SKILLS/Fundamental/Variable.md)     | ⚠️ 🟨 prototype         | ✅ 🟦 [signature](SKILLS/Fundamental/Signature.md)           | 🟦 collection       | 🟦 [paradigm](SKILLS/Fundamental/Paradigm.md)          |
@@ -37,6 +37,19 @@
 | ⚠️ 🟨 ...rest                                       |                         |                          | 🟦 null             |                      |
 | ⚠️ 🟨 typeof                                        |                         |                          |                     |                      |
 | ❇️ 🟧 GIL                                           |                         |                          |                     |                      |
+
+## How programming languages works
+
+| General       | Python    | Java Script    | GoLang | Java/Kotlin.   |
+|---------------|-----------|----------------|--------|----------------|
+| 🟦 [Call Stack](SKILLS/Fundamental/Call%20Stack.md) | 🟧 Cpython     | 🟨 V8          |        | ⬜ JVM         |
+| 🟦 [Heap](SKILLS/Fundamental/Heap.md)          | 🟧 GIL          |                |        |                |
+| 🟦 [Stack](SKILLS/Fundamental/Stack.md)      | 🟧 JIT in Py          |                |        |                |
+| 🟦 Topic      |           |                |        |                |
+| 🟦 Topic      |           |                |        |                |
+| 🟦 Topic      |           |                |        |                |
+| 🟦 Topic      |           |                |        |                |
+
 
 ## Multi-paradigm programming
 
