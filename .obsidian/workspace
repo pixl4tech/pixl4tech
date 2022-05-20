@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SKILLS.md",
+            "file": "SKILLS/Fundamental/Literal.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SKILLS.md",
+                "file": "SKILLS/Fundamental/Literal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "1bfc38b998a29c41",
   "lastOpenFiles": [
+    "SKILLS/Fundamental/Literal.md",
     "SKILLS.md",
     "SKILLS/Fundamental/Recursion.md",
     "SKILLS/Fundamental/Stack.md",
@@ -105,7 +106,6 @@
     "SKILLS/Fundamental/Algorithm.md",
     "SKILLS/Fundamental/Variable.md",
     "SKILLS/Fundamental/Value.md",
-    "SKILLS/Fundamental/Type.md",
-    "SKILLS/Fundamental/Signature.md"
+    "SKILLS/Fundamental/Type.md"
   ]
 }
