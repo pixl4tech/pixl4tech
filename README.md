@@ -7,5 +7,5 @@
 <code>🧑‍💻 Languages: Python, SQL, SAS Base, JavaScript, Kotlin (for fun), Go (for fun)</code><br>
 <code>📦 Tech stack: Python: Flask | Django | FastApi</code>
 
-<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixl4tech&layout=compact&theme=monokai&langs_count=9&count_private=true">
+<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixl4tech&layout=compact&theme=monokai&langs_count=8&count_private=true">
 
