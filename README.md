@@ -7,4 +7,5 @@
 <code>🧑‍💻 Languages: Python, SQL, SAS Base, JavaScript, Kotlin (for fun), Go (for fun)</code><br>
 <code>📦 Tech stack: Python: Flask | Django | FastApi</code>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pixl4tech&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pixl4tech&langs_count=5&theme=tokyonight)]()
+
