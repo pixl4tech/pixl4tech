@@ -1,0 +1,11 @@
+{
+  "markdown-table-editor:markdown-table-editor-open-horizontal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "U"
+    }
+  ]
+}
